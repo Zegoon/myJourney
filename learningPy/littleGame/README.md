@@ -1,1 +1,1 @@
-# Little base game I made in 2 days while learning Python
+# Little base games I made to learn Python
