@@ -1,2 +1,2 @@
 # Hello!
-## Just a directory to keep all my projects while learning python 👍
+## Just a directory to keep all my projects while learning Python 👍
