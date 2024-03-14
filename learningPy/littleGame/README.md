@@ -1,4 +1,4 @@
-# Little base games I made to learn Python
+# Little basic games I made to learn Python
 
 **Checklist**
 1. Data types✅
