@@ -8,7 +8,7 @@
 5. Basic text formatting✅
 6. While loops✅
 7. For loops✅
-8. Packages✅
+8. Library✅
 9. Lists
 10. Tuples
 11. Dictionaries
