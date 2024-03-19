@@ -9,14 +9,13 @@
 6. While loops✅
 7. For loops✅
 8. Library✅
-9. Lists
-10. Tuples
-11. Dictionaries
-12. Array
-13. Modules
-14. File
-15. Scope
-16. OOP
-17. Lambda
-18. Try..Except
-19. User input✅
+9. Lists✅
+10. Tuples✅
+11. Dictionaries✅
+12. Packages✅
+13. File
+14. Scope✅
+15. OOP
+16. Lambda
+17. Try..Except
+18. User input✅
